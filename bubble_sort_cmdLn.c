@@ -37,7 +37,7 @@ void	bubble_sort(int arr[], int n)
 	}
 }
 
-//This is the main for mem alloc, str to int conv and passing the sort fn to stdout
+//This is the main for mem alloc, str to int conv and passing the sort fn to stdout.
 int	main(int argc, char *argv[])
 {
 	int	i;
@@ -79,7 +79,7 @@ int	main(int argc, char *argv[])
 	return 0;
 }
 
-// This is a simple main to dispay all the arguments given on stdout
+// This is a simple main to dispay all the arguments given on stdout.
 // int	main(int ac, char **av)
 // {
 // 	int	mine;
@@ -92,7 +92,7 @@ int	main(int argc, char *argv[])
 // 	return (0);
 // }
 
-// This is an elaborate main to display all the args on stdout
+// This is an elaborate main to display all the args on stdout.
 // int	main(int argc, char *argv[])
 // {
 // 	int	i;
